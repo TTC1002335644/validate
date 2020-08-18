@@ -1,4 +1,4 @@
-# jwt
+# Validate 验证器
 借鉴thinkphp5.*的验证规，脱离thinkphp的局限
 
 # 安装
